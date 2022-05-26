@@ -1,6 +1,6 @@
 <h3 align="center">Welcome!</h3>
 
-![alt text](https://discord.c99.nl/widget/theme-5/964176739637018644.png) <p>
+<p align="center"> ![alt text](https://discord.c99.nl/widget/theme-5/964176739637018644.png) <p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oxygdon&label=Profile%20views&color=e6c005&style=flat" alt="oxygdon" /> </p>
 
